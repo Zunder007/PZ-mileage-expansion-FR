@@ -1,0 +1,3 @@
+Tooltip_FR = {
+    Tooltip_Reset_Trip_Odometer = "Mettre le compteur à zéro. <LINE> Ne peut pas être annulé.",
+}
