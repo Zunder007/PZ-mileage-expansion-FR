@@ -1,0 +1,23 @@
+Sandbox_FR = {
+    Sandbox_MileageExpansion = "Mileage Expansion",
+
+    Sandbox_MileageExpansion_Default_Unit = "Unité par défaut",
+    Sandbox_MileageExpansion_Default_Unit_tooltip = "L'unité par défaut du véhicule nouvellement créé commence avec.",
+    Sandbox_MileageExpansion_Default_Unit_option1 = "Miles",
+    Sandbox_MileageExpansion_Default_Unit_option2 = "Kilomètres",
+
+    Sandbox_MileageExpansion_Meter_Per_Kilometer = "Mètre par Kilomètre",
+    Sandbox_MileageExpansion_Meter_Per_Kilometer_tooltip = "Définir le nombre de mètres qu'il y a dans un Kilomètre. <LINE> Une valeur inférieure signifie qu'un kilomètre prend moins de temps à parcourir. <LINE> Une valeur plus élevée signifie qu'un kilomètre prend plus de temps à parcourir.",
+
+    Sandbox_MileageExpansion_Kilometer_Short_Name = "Nom abrégé du Kilomètre",
+    Sandbox_MileageExpansion_Kilometer_Short_Name_tooltip = "Définir un nom court personnalisé pour les Kilomètres. Défaut: km",
+
+    Sandbox_MileageExpansion_Miles_Short_Name = "Nom abrégé des Miles",
+    Sandbox_MileageExpansion_Miles_Short_Name_tooltip = "Définir un nom court personnalisé pour les Miles. Défaut: mi",
+
+    Sandbox_MileageExpansion_Minimum_Starting_Odometer = "Compteur kilométrique: minimum de départ",
+    Sandbox_MileageExpansion_Minimum_Starting_Odometer_tooltip = "Il s'agit du nombre minimum de kilomètres utilisé pour définir aléatoirement la valeur du compteur kilométrique de départ d'un véhicule. <LINE> L'état du moteur affectera uniquement la valeur finale.",
+
+    Sandbox_MileageExpansion_Maximum_Starting_Odometer = "Compteur kilométrique: maximum de départ",
+    Sandbox_MileageExpansion_Maximum_Starting_Odometer_tooltip = "Il s'agit du nombre maximum de kilomètres utilisé pour définir aléatoirement la valeur du compteur kilométrique de départ d'un véhicule. <LINE> L'état du moteur affectera uniquement la valeur finale.",
+}
