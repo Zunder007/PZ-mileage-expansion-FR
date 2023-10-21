@@ -1,0 +1,7 @@
+ContextMenu_FR = {
+    ContextMenu_Use_Metric = "Utiliser le système Métrique",
+    ContextMenu_Use_Imperial = "Utiliser le système Impérial",
+    ContextMenu_Hide_Trip_Odometer = "Masquer le compteur kilométrique",
+    ContextMenu_Show_Trip_Odometer = "Afficher le compteur kilométrique",
+    ContextMenu_Reset_Trip_Odometer = "Réinitialiser le compteur kilométrique",
+}
